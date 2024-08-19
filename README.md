@@ -67,10 +67,6 @@ https://github.com/madnan19
 - Easter Egg 'hi' will give you a response.
 - And many more commands are there.
 
-## Screenshots
-
-![frame_firefox_mac_dark (3)](https://user-images.githubusercontent.com/80502833/189382825-2a790d21-82fa-4ad1-94ce-8ac45e8ec62a.png)
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
